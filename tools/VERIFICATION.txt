@@ -1,0 +1,17 @@
+﻿VERIFICATION
+------------
+
+Installation file was obtained from the official Bitdefender download page:
+
+https://www.bitdefender.com/solutions/free.html
+
+Direct download URL used in this package:
+https://download.bitdefender.com/windows/installer/en-us/bitdefender_avfree.exe
+
+The checksum was calculated locally using:
+- PowerShell Get-FileHash (SHA256)
+
+Installer behavior notes:
+- The installer supports limited silent installation using the /silent switch
+- Some UI or post-install user sign-in may still be required by Bitdefender
+- This is expected vendor behavior and not a package defect

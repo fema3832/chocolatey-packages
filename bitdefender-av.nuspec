@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>bitdefender-av</id>
+    <version>1.0.0</version>
+    <packageSourceUrl>https://github.com/fema3832/bitdefender-av-free</packageSourceUrl>
+    <owners>fema3832</owners>
+    <title>Bitdefender Antivirus Free</title>
+    <authors>Bitdefender</authors>
+    <projectUrl>https://www.bitdefender.com/solutions/free.html</projectUrl>
+    <licenseUrl>https://www.bitdefender.com/site/view/legal.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+Bitdefender Antivirus Free provides essential malware protection using Bitdefender's award-winning detection technology.
+
+Note:
+- Silent installation is best-effort
+- Initial user sign-in may be required after installation
+    </description>
+    <tags>antivirus security malware bitdefender</tags>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
