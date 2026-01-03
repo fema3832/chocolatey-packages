@@ -2,8 +2,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>bitdefender-av-free</id>
-    <version>1.0.0</version>
-    <packageSourceUrl>https://github.com/fema3832/chocolatey-packages/bitdefender-av-free</packageSourceUrl>
+    <version>0.0.0</version>
+    <packageSourceUrl>https://github.com/fema3832/chocolatey-packages/tree/main/bitdefender-av-free</packageSourceUrl>
     <owners>fema3832</owners>
     <title>Bitdefender Antivirus Free</title>
     <authors>Bitdefender</authors>
